@@ -1,0 +1,11 @@
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\bin\Debug\sinozicSebastianISPIT.exe.config
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\bin\Debug\sinozicSebastianISPIT.exe
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\bin\Debug\sinozicSebastianISPIT.pdb
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\obj\Debug\sinozicSebastianISPIT.csprojAssemblyReference.cache
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\obj\Debug\sinozicSebastianISPIT.Form1.resources
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\obj\Debug\sinozicSebastianISPIT.Form2.resources
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\obj\Debug\sinozicSebastianISPIT.Properties.Resources.resources
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\obj\Debug\sinozicSebastianISPIT.csproj.GenerateResource.cache
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\obj\Debug\sinozicSebastianISPIT.csproj.CoreCompileInputs.cache
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\obj\Debug\sinozicSebastianISPIT.exe
+C:\Users\Učenik11\source\repos\sinozicSebastianISPIT\sinozicSebastianISPIT\obj\Debug\sinozicSebastianISPIT.pdb
